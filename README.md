@@ -5,7 +5,7 @@ An authentic recreation of the classic 1978 arcade game, built with vanilla Java
 ## Features
 
 ✨ **Pixel-Perfect Arcade Accuracy**
-- Authentic 1979 sprites for all three enemy types (Squid, Crab, Octopus)
+- Authentic 1978 sprites for all three enemy types (Squid, Crab, Octopus)
 - Step-based "jumping" enemy movement (not smooth animation)
 - Portrait aspect ratio matching the original arcade cabinet (560x640)
 - Arcade color laminate zones emulating the plastic overlays from the original cabinet
